@@ -10,10 +10,10 @@ En este repositorio encontrará todos los recursos vistos en clase, en ecosistem
 ## SEMANA 1
 
 ### Martes
-[EA - Introducción a Android Studio](https://youtu.be/MK-Dpp-599Q)
-[EA - Posicionamiento de elementos gráficos](https://youtu.be/Sm_5pIF_gvA)
-[EA - Dimensionamiento](https://youtu.be/xCeRgByXz_4)
+[EA - Introducción a Android Studio](https://youtu.be/MK-Dpp-599Q) <br />
+[EA - Posicionamiento de elementos gráficos](https://youtu.be/Sm_5pIF_gvA) <br />
+[EA - Dimensionamiento](https://youtu.be/xCeRgByXz_4) <br />
 
 ### Jueves
-[EA - Anidamiento y agrupación](https://youtu.be/8mgoDT0bNKg)
-[EA - Uso de imágenes y scrolling](https://youtu.be/1miFIK-rpaA)
+[EA - Anidamiento y agrupación](https://youtu.be/8mgoDT0bNKg) <br />
+[EA - Uso de imágenes y scrolling](https://youtu.be/1miFIK-rpaA) <br />
