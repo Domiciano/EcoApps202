@@ -7,6 +7,10 @@ En este repositorio encontrará todos los recursos vistos en clase, en ecosistem
 ## Correos de los integrantes
 [Correo de los integrantes](https://docs.google.com/spreadsheets/d/1mw6Uu3FG5kEw83dZn_P8jVthoKp1K0pLvE-F5l6MlKk/edit?usp=sharing)
 
+## POR SI ACASO
+[EA - Cómo instalar el core de Processing en Eclipse](https://youtu.be/D9aJiW0UIx0)
+
+
 ## SEMANA 1
 
 ### Martes
