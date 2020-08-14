@@ -18,6 +18,9 @@ En este repositorio encontrará todos los recursos vistos en clase, en ecosistem
 [EA - Posicionamiento de elementos gráficos](https://youtu.be/Sm_5pIF_gvA) <br />
 [EA - Dimensionamiento](https://youtu.be/xCeRgByXz_4) <br />
 
+### Clase Jueves
+[EA - Semana 1B](https://youtu.be/K_wpe7jcOB4)
+
 ### Jueves
 [EA - Anidamiento y agrupación](https://youtu.be/8mgoDT0bNKg) <br />
 [EA - Uso de imágenes y scrolling](https://youtu.be/1miFIK-rpaA) <br />
