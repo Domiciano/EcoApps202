@@ -24,3 +24,15 @@ En este repositorio encontrará todos los recursos vistos en clase, en ecosistem
 ### Videos Jueves
 [EA - Anidamiento y agrupación](https://youtu.be/8mgoDT0bNKg) <br />
 [EA - Uso de imágenes y scrolling](https://youtu.be/1miFIK-rpaA) <br />
+
+
+## SEMANA 2
+
+### Martes
+[EA - Referenciar Views en JAVA](https://youtu.be/oxPVtyqxSe0) <br />
+[EA - OnClickListener](https://youtu.be/Vf73A6H4Qws) <br />
+[EA - OnTouchListener](https://youtu.be/TbPNKHvLXm8) <br />
+
+### Jueves
+[EA - Control Touch Simple Parte 1](https://youtu.be/Z2LxSKXhe5o) <br />
+[EA - Control Touch Simple Parte 2](https://youtu.be/AouBtCqzw2M) <br />
