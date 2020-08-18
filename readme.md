@@ -33,6 +33,9 @@ En este repositorio encontrará todos los recursos vistos en clase, en ecosistem
 [EA - OnClickListener](https://youtu.be/Vf73A6H4Qws) <br />
 [EA - OnTouchListener](https://youtu.be/TbPNKHvLXm8) <br />
 
+### CLASE
+[Clase ECO Semana 2A](https://youtu.be/vfQTEMUVgd8)
+
 ### Jueves
 [EA - Control Touch Simple Parte 1](https://youtu.be/Z2LxSKXhe5o) <br />
 [EA - Control Touch Simple Parte 2](https://youtu.be/AouBtCqzw2M) <br />
