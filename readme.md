@@ -39,3 +39,6 @@ En este repositorio encontrará todos los recursos vistos en clase, en ecosistem
 ### Jueves
 [EA - Control Touch Simple Parte 1](https://youtu.be/Z2LxSKXhe5o) <br />
 [EA - Control Touch Simple Parte 2](https://youtu.be/AouBtCqzw2M) <br />
+
+### CLASE
+[EA - Clase Jueves](https://youtu.be/SEgTBhMcpYM)
