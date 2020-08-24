@@ -42,3 +42,6 @@ En este repositorio encontrará todos los recursos vistos en clase, en ecosistem
 
 ### CLASE
 [EA - Clase Jueves](https://youtu.be/SEgTBhMcpYM)
+
+### Laboratorio
+[Lab Eco S2](https://youtu.be/M3QFUfY-YeU)
