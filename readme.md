@@ -45,3 +45,15 @@ En este repositorio encontrará todos los recursos vistos en clase, en ecosistem
 
 ### Laboratorio
 [Lab Eco S2](https://youtu.be/M3QFUfY-YeU)
+
+
+## SEMANA 3
+
+### Martes
+[EA - Navegación entre actividades](https://youtu.be/FXMFuwh2icY)<br />
+[EA - Finalizar una actividad](https://youtu.be/vbtnG-z-Azo)<br />
+[EA - Pasando parámetros entre actividades)<br />
+
+### Jueves
+[EA - Regresando parámetros a una actividad](https://youtu.be/vUwUwN8RVJ4)<br />
+[EA - Shared Preferences en Android](https://youtu.be/Z_iAAOjL5Rs)<br />
