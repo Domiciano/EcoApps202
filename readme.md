@@ -52,7 +52,7 @@ En este repositorio encontrará todos los recursos vistos en clase, en ecosistem
 ### Martes
 [EA - Navegación entre actividades](https://youtu.be/FXMFuwh2icY)<br />
 [EA - Finalizar una actividad](https://youtu.be/vbtnG-z-Azo)<br />
-[EA - Pasando parámetros entre actividades)<br />
+[EA - Pasando parámetros entre actividades](https://youtu.be/eEXMRhcBrC4)<br />
 
 ### Jueves
 [EA - Regresando parámetros a una actividad](https://youtu.be/vUwUwN8RVJ4)<br />
