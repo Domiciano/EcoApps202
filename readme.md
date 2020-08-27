@@ -57,3 +57,17 @@ En este repositorio encontrará todos los recursos vistos en clase, en ecosistem
 ### Jueves
 [EA - Regresando parámetros a una actividad](https://youtu.be/vUwUwN8RVJ4)<br />
 [EA - Shared Preferences en Android](https://youtu.be/Z_iAAOjL5Rs)<br />
+
+
+
+
+
+
+
+
+
+
+
+
+
+
