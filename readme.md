@@ -54,11 +54,16 @@ En este repositorio encontrará todos los recursos vistos en clase, en ecosistem
 [EA - Finalizar una actividad](https://youtu.be/vbtnG-z-Azo)<br />
 [EA - Pasando parámetros entre actividades](https://youtu.be/eEXMRhcBrC4)<br />
 
+### Clase
+[Eco Martes S3](https://youtu.be/oCR4p15_wxA)
+
 ### Jueves
 [EA - Regresando parámetros a una actividad](https://youtu.be/vUwUwN8RVJ4)<br />
 [EA - Shared Preferences en Android](https://youtu.be/Z_iAAOjL5Rs)<br />
 
 
+### Clase
+[Eco Jueves S3](https://youtu.be/_iqhd99Soso)
 
 
 
