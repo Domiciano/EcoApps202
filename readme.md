@@ -65,7 +65,22 @@ En este repositorio encontrará todos los recursos vistos en clase, en ecosistem
 ### Clase
 [Eco Jueves S3](https://youtu.be/_iqhd99Soso)
 
+### LAB
+[Eco LAB S3](https://youtu.be/zXyRcM8lLeg)
 
+## SEMANA 4
+
+
+### Martes
+[EA - Redes LAN e Internet [CONCEPTO]](https://youtu.be/NqwgKpqvVO8)<br />
+[EA - Direcciones IP [CONCEPTO]](https://youtu.be/xZkTM9Otcl8)<br />
+[EA - Clase InetAddress [Implementación]](https://youtu.be/GpXPrs2-EXI)<br />
+
+
+### Jueves
+[EA - TCP  Conexión [Implementación]](https://youtu.be/2jXgV0RMZA4)<br />
+[EA - Envío y recepción de enteros [Implementación]](https://youtu.be/VYIN6Nf6Hy8)<br />
+[EA - Envío y recepción de strings](https://youtu.be/uuLjAkao_zc)<br />
 
 
 
