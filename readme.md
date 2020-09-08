@@ -87,7 +87,18 @@ En este repositorio encontrará todos los recursos vistos en clase, en ecosistem
 [EA - Envío y recepción de strings](https://youtu.be/uuLjAkao_zc)<br />
 
 
+## SEMANA 5
 
+
+### Martes
+[EA - TCP: Conexión](https://youtu.be/YN_KHXhY1go)<br />
+[EA - TCP: Envío y recepción](https://youtu.be/_lYeRIgg1rM)<br />
+[EA - TCP: Ecosistema Eclipse-Eclipse](https://youtu.be/3dvApYktX0I)<br />
+
+
+### Jueves
+[EA - TCP: Ecosistema Eclipse-Android](https://youtu.be/cJXHc1tkpA8)<br />
+[EA - Extra: transferencia de bytes](https://youtu.be/OvG500_vCOE)<br />
 
 
 
