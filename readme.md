@@ -89,11 +89,14 @@ En este repositorio encontrará todos los recursos vistos en clase, en ecosistem
 
 ## SEMANA 5
 
+### Clase
+[EA - Semana 5 Martes](https://youtu.be/gUpNrLj7PaY)
 
 ### Martes
 [EA - TCP: Conexión](https://youtu.be/YN_KHXhY1go)<br />
 [EA - TCP: Envío y recepción](https://youtu.be/_lYeRIgg1rM)<br />
 [EA - TCP: Ecosistema Eclipse-Eclipse](https://youtu.be/3dvApYktX0I)<br />
+
 
 
 ### Jueves
