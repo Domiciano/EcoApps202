@@ -98,12 +98,29 @@ En este repositorio encontrará todos los recursos vistos en clase, en ecosistem
 [EA - TCP: Ecosistema Eclipse-Eclipse](https://youtu.be/3dvApYktX0I)<br />
 
 
+### Clase
+[EcoAppsjevesS5](https://youtu.be/mbWFGCHdwvU)
 
 ### Jueves
 [EA - TCP: Ecosistema Eclipse-Android](https://youtu.be/cJXHc1tkpA8)<br />
 [EA - Extra: transferencia de bytes](https://youtu.be/OvG500_vCOE)<br />
 
 
+## SEMANA 6
 
+### Martes
+[EA - Concepto de Serialización JSON](https://youtu.be/wJB1tJ8KRrw)<br />
+
+[EA - Instalación de JSON en Android Studio y Eclipse](https://youtu.be/WR5pZpazjs4)<br />
+
+[EA - Serialiazión JSON](https://youtu.be/v_fegKHgGK0)<br />
+
+[EA - Deserialización JSON](https://youtu.be/NN7uyxZWLZU)<br />
+
+
+### Jueves
+[EA - Serialización y deserialización de arreglos](https://youtu.be/Z3O7UT5VJOI)<br />
+
+[EA - Almacenamiento de objetos en SharedPreferences](https://youtu.be/cY-CIjeuJ5Q)<br />
 
 
