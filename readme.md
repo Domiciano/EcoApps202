@@ -117,6 +117,8 @@ En este repositorio encontrará todos los recursos vistos en clase, en ecosistem
 
 [EA - Deserialización JSON](https://youtu.be/NN7uyxZWLZU)<br />
 
+### Tutoria
+[TutoriaS6](https://youtu.be/RQt0WlpNER8)
 
 ### Jueves
 [EA - Serialización y deserialización de arreglos](https://youtu.be/Z3O7UT5VJOI)<br />
