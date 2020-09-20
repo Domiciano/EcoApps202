@@ -108,6 +108,9 @@ En este repositorio encontrará todos los recursos vistos en clase, en ecosistem
 
 ## SEMANA 6
 
+### Clase
+[EcoMartesS6](https://youtu.be/hCRDHGzIUMc)<br />
+
 ### Martes
 [EA - Concepto de Serialización JSON](https://youtu.be/wJB1tJ8KRrw)<br />
 
@@ -120,9 +123,15 @@ En este repositorio encontrará todos los recursos vistos en clase, en ecosistem
 ### Tutoria
 [TutoriaS6](https://youtu.be/RQt0WlpNER8)
 
+### Clase
+[EcoJuevesS6](https://youtu.be/1KuIOm8tHAE)<br />
+
 ### Jueves
 [EA - Serialización y deserialización de arreglos](https://youtu.be/Z3O7UT5VJOI)<br />
 
 [EA - Almacenamiento de objetos en SharedPreferences](https://youtu.be/cY-CIjeuJ5Q)<br />
 
+### Viernes
+[EcoViernesS6Parte1](https://youtu.be/iEkG2uG4YXQ)<br />
 
+[EcoViernesS6Parte2](https://youtu.be/TPvz7wDntKs)<br />
