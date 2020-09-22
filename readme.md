@@ -135,3 +135,21 @@ En este repositorio encontrará todos los recursos vistos en clase, en ecosistem
 [EcoViernesS6Parte1](https://youtu.be/iEkG2uG4YXQ)<br />
 
 [EcoViernesS6Parte2](https://youtu.be/TPvz7wDntKs)<br />
+
+
+## Semana 7
+
+### Martes
+[EA - Inicio](https://youtu.be/yEiSXnrdtrE)
+[EA - Problema que resuelve Singleton](https://youtu.be/H8JVzCjsSgc)<br/>
+[EA - Patrón Singleton](https://youtu.be/Wln1ramERHU)<br/>
+
+### Jueves
+[EA - Patrón observer primitivo](https://youtu.be/gyQXeiBYC4w)<br/>
+[EA - Patrón observer](https://youtu.be/8i_H_clXFaY)<br/>
+
+
+
+
+
+
