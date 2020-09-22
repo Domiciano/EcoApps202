@@ -140,7 +140,7 @@ En este repositorio encontrará todos los recursos vistos en clase, en ecosistem
 ## Semana 7
 
 ### Martes
-[EA - Inicio](https://youtu.be/yEiSXnrdtrE)
+[EA - Inicio](https://youtu.be/yEiSXnrdtrE)<br/>
 [EA - Problema que resuelve Singleton](https://youtu.be/H8JVzCjsSgc)<br/>
 [EA - Patrón Singleton](https://youtu.be/Wln1ramERHU)<br/>
 
