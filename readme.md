@@ -161,4 +161,10 @@ En este repositorio encontrará todos los recursos vistos en clase, en ecosistem
 [Eco Viernes S7](https://youtu.be/yQfs73mlG1w)
 
 
+## Semana 8
+
+[EA - Explicación conceptual del multicliente](https://youtu.be/47JIDuP8rUE)<br/>
+[EA - Separación de clases: TPC Launcher y Session](https://youtu.be/kWk545lDGk4)<br/>
+[EA - Envío de mensaje JSON al server](https://youtu.be/SLN5NKJWArA)<br/>
+[EA - Deserialización del mensaje y representación del avatar](https://youtu.be/KWd6qC5RDEY)<br/>
 
