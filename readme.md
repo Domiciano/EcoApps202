@@ -163,6 +163,16 @@ En este repositorio encontrará todos los recursos vistos en clase, en ecosistem
 
 ## Semana 8
 
+### Clase Martes
+[Martes ECO S8](https://youtu.be/JxelxABrRF4)
+
+### Tutoría Miércoles
+[Tutoria ECO S8](https://youtu.be/VDEyqvKJnGs)
+
+### Clase Jueves
+[Jueves ECO S8](https://youtu.be/X0zgFHLYOn4)
+
+### Videos
 [EA - Explicación conceptual del multicliente](https://youtu.be/47JIDuP8rUE)<br/>
 [EA - Separación de clases: TPC Launcher y Session](https://youtu.be/kWk545lDGk4)<br/>
 [EA - Envío de mensaje JSON al server](https://youtu.be/SLN5NKJWArA)<br/>
