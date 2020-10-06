@@ -178,3 +178,15 @@ En este repositorio encontrará todos los recursos vistos en clase, en ecosistem
 [EA - Envío de mensaje JSON al server](https://youtu.be/SLN5NKJWArA)<br/>
 [EA - Deserialización del mensaje y representación del avatar](https://youtu.be/KWd6qC5RDEY)<br/>
 
+
+## Semana 9
+
+### Videos
+
+[EA - UDP Parte 1](https://youtu.be/5nLdvQeHNH8)<br/>
+[EA - UDP Parte 2](https://youtu.be/buPRKQBCVug)<br/>
+[EA - UDP Parte 3](https://youtu.be/5SbMwpKLrTU)<br/>
+[EA - UDP Parte 4](https://youtu.be/4Y2ftj_9g2o)<br/>
+[EA - UDP Parte 5](https://youtu.be/ov_hOL1zTlE)<br/>
+[EA - UDP Parte 6](https://youtu.be/Qj6KxNoZsvM)<br/>
+
