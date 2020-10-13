@@ -190,3 +190,19 @@ En este repositorio encontrará todos los recursos vistos en clase, en ecosistem
 [EA - UDP Parte 5](https://youtu.be/ov_hOL1zTlE)<br/>
 [EA - UDP Parte 6](https://youtu.be/Qj6KxNoZsvM)<br/>
 
+## Semana 10
+
+### Videos
+
+
+[EA - Primeros pasos con el nodo HTML](https://youtu.be/-Yl5LReY5hA)<br/>
+
+[EA - Aplicar un estilo a HTML con CSS](https://youtu.be/vRVCczR-8Ro)<br/>
+
+[EA - Usar los elementos gráficos de HTML en Javascript](https://youtu.be/fL4D7m_f1w4)<br/>
+
+[EA - Conectar página HTML a Firebase](https://youtu.be/AcHtfSiyyBo)<br/>
+
+[EA - Métodos para enviar información a Firebase](https://youtu.be/zU9w8Qq5PGw)<br/>
+
+[EA - Métodos para recibir información de Firebase](https://youtu.be/-67P8nr4s8I)<br/>
