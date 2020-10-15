@@ -190,6 +190,14 @@ En este repositorio encontrará todos los recursos vistos en clase, en ecosistem
 [EA - UDP Parte 5](https://youtu.be/ov_hOL1zTlE)<br/>
 [EA - UDP Parte 6](https://youtu.be/Qj6KxNoZsvM)<br/>
 
+
+### Clases
+[EcoS9Jueves](https://youtu.be/MIDIhTC6W5U)<br/>
+[EcoS9Martes](https://youtu.be/794qnvHy45E)<br/>
+[EcoViernes1](https://youtu.be/58y78zpzqJ4)<br/>
+[EcoViernes2](https://youtu.be/AUc5Ejjv1_s)<br/>
+[EcoViernes3](https://youtu.be/SaSZIrpPHgw)<br/>
+
 ## Semana 10
 
 ### Videos
