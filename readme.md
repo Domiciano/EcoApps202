@@ -215,6 +215,14 @@ En este repositorio encontrará todos los recursos vistos en clase, en ecosistem
 
 [EA - Métodos para recibir información de Firebase](https://youtu.be/-67P8nr4s8I)<br/>
 
+### Clases
+
+[EcoMartesS10](https://youtu.be/w21wuXeMCaw)<br/>
+[EcoJuevesS10](https://youtu.be/pQqzMdbFfg8)<br/>
+[EcoS10ViernesA](https://youtu.be/gMUlIGSQYyo)<br/>
+[EcoS10ViernesB](https://youtu.be/fw3xp_YVAiY)<br/>
+
+
 
 ## Semana 11
 
