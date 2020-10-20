@@ -214,3 +214,13 @@ En este repositorio encontrará todos los recursos vistos en clase, en ecosistem
 [EA - Métodos para enviar información a Firebase](https://youtu.be/zU9w8Qq5PGw)<br/>
 
 [EA - Métodos para recibir información de Firebase](https://youtu.be/-67P8nr4s8I)<br/>
+
+
+## Semana 11
+
+### Videos
+https://youtu.be/gX0pt4lZD-w
+https://youtu.be/IpEiPSfeAnw
+https://youtu.be/aQQVcmA7Fd0
+https://youtu.be/T1WwhUcArc0
+https://youtu.be/OFsau8AayPU
