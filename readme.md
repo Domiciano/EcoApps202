@@ -232,3 +232,13 @@ En este repositorio encontrará todos los recursos vistos en clase, en ecosistem
 [HTML, JS y Firebase 3](https://youtu.be/aQQVcmA7Fd0)<br/>
 [HTML, JS y Firebase 4](https://youtu.be/T1WwhUcArc0)<br/>
 [HTML, JS y Firebase 5](https://youtu.be/OFsau8AayPU)<br/>
+
+
+## Semana 12
+
+### Dependencias
+
+```
+    implementation platform('com.google.firebase:firebase-bom:25.12.0')
+    implementation 'com.google.firebase:firebase-database'
+```
