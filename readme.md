@@ -242,3 +242,10 @@ En este repositorio encontrará todos los recursos vistos en clase, en ecosistem
     implementation platform('com.google.firebase:firebase-bom:25.12.0')
     implementation 'com.google.firebase:firebase-database'
 ```
+
+### Videos
+[EA - Configurar e instalar Firebase en Android](https://youtu.be/uYY0Msr-pF4)<br/>
+[EA - Enviar datos a Firebase con Android](https://youtu.be/cQUVG2MgmTo)<br/>
+[EA - Modificar y eliminar registros en Firebase con Android](https://youtu.be/X0IniDrntU0)<br/>
+[EA - Lectura de un objeto en Firebase con Android](https://youtu.be/f0mfB0ibgOI)<br/>
+[EA - Lectura de un grupo de Firebase y estar pendiente de sus cambios en Android](https://youtu.be/AdUktunFSnQ)<br/>
