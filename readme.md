@@ -226,6 +226,12 @@ En este repositorio encontrará todos los recursos vistos en clase, en ecosistem
 
 ## Semana 11
 
+### Clases
+[Martes](https://youtu.be/Sj0PcNMn8Ms)<br/>
+[Tutoría](https://youtu.be/nRTAlWV_fCE)
+[Jueves](https://youtu.be/XDGIxf4eFJo)<br/>
+[Viernes](https://youtu.be/Kbv0VW5VbpU)<br/>
+
 ### Videos
 [HTML, JS y Firebase 1](https://youtu.be/gX0pt4lZD-w)<br/>
 [HTML, JS y Firebase 2](https://youtu.be/IpEiPSfeAnw)<br/>
