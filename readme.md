@@ -228,7 +228,7 @@ En este repositorio encontrará todos los recursos vistos en clase, en ecosistem
 
 ### Clases
 [Martes](https://youtu.be/Sj0PcNMn8Ms)<br/>
-[Tutoría](https://youtu.be/nRTAlWV_fCE)
+[Tutoría](https://youtu.be/nRTAlWV_fCE)<br/>
 [Jueves](https://youtu.be/XDGIxf4eFJo)<br/>
 [Viernes](https://youtu.be/Kbv0VW5VbpU)<br/>
 
