@@ -255,3 +255,13 @@ En este repositorio encontrará todos los recursos vistos en clase, en ecosistem
 [EA - Modificar y eliminar registros en Firebase con Android](https://youtu.be/X0IniDrntU0)<br/>
 [EA - Lectura de un objeto en Firebase con Android](https://youtu.be/f0mfB0ibgOI)<br/>
 [EA - Lectura de un grupo de Firebase y estar pendiente de sus cambios en Android](https://youtu.be/AdUktunFSnQ)<br/>
+
+## Semana 13
+
+### Videos
+
+[Construcción de una lista simple](https://youtu.be/IR80PfCA8ac)<br/>
+[Listeners básicos de listas simples](https://youtu.be/OwXDBj0KBA4)<br/>
+[Construcción de una lista intermedia. Custom rows](https://youtu.be/tLaXrimseq4)<br/>
+[Custom rows para representar información de un arreglo](https://youtu.be/sbmjSJTjmJs)<br/>
+[Listeners en una lista intermedia](https://youtu.be/0CgANxkqWlk)<br/>
