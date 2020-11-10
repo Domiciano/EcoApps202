@@ -277,3 +277,12 @@ En este repositorio encontrará todos los recursos vistos en clase, en ecosistem
 [Construcción de una lista intermedia. Custom rows](https://youtu.be/tLaXrimseq4)<br/>
 [Custom rows para representar información de un arreglo](https://youtu.be/sbmjSJTjmJs)<br/>
 [Listeners en una lista intermedia](https://youtu.be/0CgANxkqWlk)<br/>
+
+## Semana 14
+
+[Instalación de Firebase Auth](https://youtu.be/EJwcH3W4QkI)<br/>
+[Registro completo con Firebase](https://youtu.be/Og5gj5xJQac)<br/>
+[Login con Firebase](https://youtu.be/3yCmZq1Gnkw)<br/>
+[Cerrar sesión en Firebase](https://youtu.be/LQ3OVo-hBrI)<br/>
+[Obtener el usuario que se ha hecho login](https://youtu.be/HcB8Pmi4MFM)<br/>
+[Navgeación a lo largo de la app](https://youtu.be/qdSDWTrBM4Y)<br/>
