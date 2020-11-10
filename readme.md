@@ -242,6 +242,12 @@ En este repositorio encontrará todos los recursos vistos en clase, en ecosistem
 
 ## Semana 12
 
+### Clase
+
+[EcoS12Martes](https://youtu.be/KqwVt3-OZvk)<br/>
+[EcoS12Jueves](https://youtu.be/hfHST1H6Igw)<br/>
+
+
 ### Dependencias
 
 ```
@@ -257,6 +263,12 @@ En este repositorio encontrará todos los recursos vistos en clase, en ecosistem
 [EA - Lectura de un grupo de Firebase y estar pendiente de sus cambios en Android](https://youtu.be/AdUktunFSnQ)<br/>
 
 ## Semana 13
+
+### Clase
+[EcoS13Martes](https://youtu.be/VlKqyci2OWQ)<br/>
+[EcoS13Martes](https://youtu.be/MbkwBmqVUuo)<br/>
+[EcoS13Viernes](https://youtu.be/Wt4Vf9WoTjY)<br/>
+
 
 ### Videos
 
