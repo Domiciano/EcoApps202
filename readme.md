@@ -289,9 +289,9 @@ En este repositorio encontrará todos los recursos vistos en clase, en ecosistem
 
 ## Semana 15
 
-https://youtu.be/RLp-jPWbRwM<br/>
-https://youtu.be/aSAiVYwV5Gw<br/>
-https://youtu.be/F9Isd1-axdg<br/>
-https://youtu.be/iTPmtvbfrIY<br/>
-https://youtu.be/MoI38hI_DG8<br/>
-https://youtu.be/-GIb8YWd3uU<br/>
+[EA - Alistamiento gráfico y configuración inicial](https://youtu.be/RLp-jPWbRwM)<br/>
+[EA - Registrarse en Firebase Auth usando Android](https://youtu.be/aSAiVYwV5Gw)<br/>
+[EA - Registro completo en Auth+Realtime DB usando Android](https://youtu.be/F9Isd1-axdg)<br/>
+[EA - Login en Firebase Auth usando Android](https://youtu.be/iTPmtvbfrIY)<br/>
+[EA - Recuperar datos del usuario en Android](https://youtu.be/MoI38hI_DG8)<br/>
+[EA - Navegación en una App Android con Autenticación](https://youtu.be/-GIb8YWd3uU)<br/>
