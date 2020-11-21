@@ -308,6 +308,7 @@ Y el de la semana 15:<br/>
 ```
 https://github.com/Domiciano/Semana15Videocode
 ```
+Si siguió los videos de las dos anteriores semana, vamos a partir de allí
 ### Videos
 En construcción
 
