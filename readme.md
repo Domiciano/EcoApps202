@@ -295,3 +295,20 @@ En este repositorio encontrará todos los recursos vistos en clase, en ecosistem
 [EA - Login en Firebase Auth usando Android](https://youtu.be/iTPmtvbfrIY)<br/>
 [EA - Recuperar datos del usuario en Android](https://youtu.be/MoI38hI_DG8)<br/>
 [EA - Navegación en una App Android con Autenticación](https://youtu.be/-GIb8YWd3uU)<br/>
+
+
+## Semana 16
+Para seguir estos videos necesitamos el código de la semana 14:<br/>
+[Semana14Videocode](https://github.com/Domiciano/Semana14Videocode)<br/>
+```
+https://github.com/Domiciano/Semana14Videocode
+```
+Y el de la semana 15:<br/>
+[Semana15Videocode](https://github.com/Domiciano/Semana15Videocode)<br/>
+```
+https://github.com/Domiciano/Semana15Videocode
+```
+### Videos
+En construcción
+
+
