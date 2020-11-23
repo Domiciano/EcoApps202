@@ -280,6 +280,10 @@ En este repositorio encontrará todos los recursos vistos en clase, en ecosistem
 
 ## Semana 14
 
+### Clase
+[EcoS14Jueves](https://youtu.be/cF7eknMrlEw)
+
+### Videos
 [Instalación de Firebase Auth](https://youtu.be/EJwcH3W4QkI)<br/>
 [Registro completo con Firebase](https://youtu.be/Og5gj5xJQac)<br/>
 [Login con Firebase](https://youtu.be/3yCmZq1Gnkw)<br/>
@@ -289,6 +293,12 @@ En este repositorio encontrará todos los recursos vistos en clase, en ecosistem
 
 ## Semana 15
 
+### Clase
+[EcoS15Martes](https://youtu.be/PidU8A4YZDU)<br/>
+[EcoJuevesS15](https://youtu.be/7yR2ZO1a6W4)<br/>
+
+
+### Video
 [EA - Alistamiento gráfico y configuración inicial](https://youtu.be/RLp-jPWbRwM)<br/>
 [EA - Registrarse en Firebase Auth usando Android](https://youtu.be/aSAiVYwV5Gw)<br/>
 [EA - Registro completo en Auth+Realtime DB usando Android](https://youtu.be/F9Isd1-axdg)<br/>
