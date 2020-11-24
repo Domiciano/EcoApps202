@@ -320,6 +320,12 @@ https://github.com/Domiciano/Semana15Videocode
 ```
 Si siguió los videos de las dos anteriores semana, vamos a partir de allí
 ### Videos
-En construcción
 
+[Recuento y Alistamiento gráfico de Android](https://youtu.be/1DtzB82DtTo)<br/>
+[Cambiar contraseña en Android por dos métodos distintos](https://youtu.be/Qur73-9EN-Y)<br/>
+[Enviar email de verificación en Android](https://youtu.be/VPU_x1AgjYA)<br/>
+[Alistamiento gráfico de la parte Web](https://youtu.be/TN9malrO9Bc)<br/>
+[Cambiar contraseña en Web por dos métodos distintos](https://youtu.be/YML5ZCOCpd4)<br/>
+[Publicación de la página y la app en Github Pages](https://youtu.be/IAk0vdSROs8)<br/>
+[Publicación de una aplicación en Google Play](https://youtu.be/mW98Jjq0hcc)<br/>
 
